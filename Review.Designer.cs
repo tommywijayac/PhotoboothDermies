@@ -1,4 +1,4 @@
-﻿namespace Erha
+namespace Erha
 {
     partial class Review
     {
