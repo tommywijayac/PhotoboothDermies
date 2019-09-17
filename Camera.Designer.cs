@@ -1,4 +1,4 @@
-﻿namespace Erha
+namespace Erha
 {
     partial class Camera
     {
@@ -146,4 +146,3 @@
         private System.Windows.Forms.Timer timerView;
     }
 }
-
