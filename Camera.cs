@@ -1,4 +1,4 @@
-﻿/*
+/*
  * PHOTOBOOTH DERMIES.EXE - CCamera
  * ----------------------------------------------------------------------------------
  * Do face recognition to determine when to take photos
