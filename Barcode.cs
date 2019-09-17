@@ -1,4 +1,4 @@
-﻿/*
+/*
  * PHOTOBOOTH ERHA.EXE - Barcode class
  * ----------------------------------------------------------------------------------
  * Read barcode reading from user and validate them
