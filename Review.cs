@@ -1,4 +1,4 @@
-﻿/*
+/*
  * PHOTOBOOTH ERHA.EXE - CReview
  * ----------------------------------------------------------------------------------
  * Preview photos result, and upload in database if finished 
